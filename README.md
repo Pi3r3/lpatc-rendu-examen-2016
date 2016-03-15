@@ -2,5 +2,5 @@
 
 - Gyss Nicolas
 - Maurouard Alexandre
-- Chapaud Pierre test branche
+- Chapaud Pierre
 - Nom + Prénom + Numéro d'étudiant
